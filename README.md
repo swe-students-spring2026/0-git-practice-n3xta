@@ -38,7 +38,6 @@ I found the survey valuable because it frames typing as a developer-experience m
 One point I’m curious about is how teams balance stricter typing with onboarding speed, especially when third-party libs remain partially typed.
 If the ecosystem keeps moving toward faster Rust-based checkers, I think typing will become the default expectation for production Python.
 
----
 
 ## Comment From Murun
 I found this article really interesting. It shows that using type hints in Python helps make code clearer and easier to work with. I also like how Meta is using Rust to make their code faster and safer. It’s cool to see that tools and strict rules can actually help developers move faster and make fewer mistakes.
